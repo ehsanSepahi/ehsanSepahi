@@ -18,12 +18,16 @@
     }
 ]
 ```
-```mermaid
-graph TD;
-    project-->B;
-    project-->C;
-    project-->D;
-    project-->E;
+```stateDiagram
+direction LR
+    [*] --> A
+    A --> B
+    B --> C
+    state B {
+      direction LR
+      a --> b
+    }
+    B --> D
 ```
 
 <!--
