@@ -19,7 +19,7 @@
 ]
 ```
 ```mermaid
-stateDiagram;
+stateDiagram
     direction LR
     [*] --> A
     A --> B
