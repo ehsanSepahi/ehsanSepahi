@@ -23,7 +23,7 @@ graph TD;
     project-->B;
     project-->C;
     project-->D;
-    project-->D;
+    project-->E;
 ```
 
 <!--
