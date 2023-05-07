@@ -1,6 +1,5 @@
 ### Hi there 👋
-```json
-[
+```json[
     {
         "first name": "ehsan",
         "last name": "sepahi ordeqan",
@@ -13,11 +12,10 @@
         "backend developer": {
             "programming language": "PHP",
             "Framework": "LARAVEL",
-            "link": "https://ehsansepahi.online"
+            "project url": "https://ehsansepahi.online"
         }
     }
-]
-```
+]```
 
 <!--
 **ehsanSepahi/ehsanSepahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
