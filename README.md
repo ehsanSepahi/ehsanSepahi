@@ -19,16 +19,10 @@
 ]
 ```
 ```mermaid
-stateDiagram
-    direction LR
-    [*] --> [A](https://ehsansepahi.online)
-    https://ehsansepahi.online --> B
-    B --> C
-    state B {
-      direction LR
-      a --> b
-    }
-    B --> D
+graph TD;
+    [*]-->project;
+    project-->B;
+    project-->C;
 ```
 
 <!--
