@@ -1,23 +1,23 @@
 ### Hi there 👋
-
- [
- - {
-   - "first name": "ehsan",
-   - "last name": "sepahi ordeqan",
-   - "age": 22,
-   - "created_at": "1379-06-29",
-   - "fild": "computer engineer",
-   - "uni": "fani va mohandesi esfarayen"
- - },
- - {
-   - "backend developer": {
-    - "programming language": "PHP",
-    - "Framework": "LARAVEL",
-    - "project url": "[project](https://ehsansepahi.online)"
-    - }
- - }
-- ]
-
+```json
+[
+    {
+        "first name": "ehsan",
+        "last name": "sepahi ordeqan",
+        "age": 22,
+        "created_at": "1379-06-29",
+        "fild": "computer engineer",
+        "uni": "fani va mohandesi esfarayen"
+    },
+    {
+        "backend developer": {
+            "programming language": "PHP",
+            "Framework": "LARAVEL",
+            "main url": "https://ehsansepahi.online"
+        }
+    }
+]
+```
 
 <!--
 **ehsanSepahi/ehsanSepahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
