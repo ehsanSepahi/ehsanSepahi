@@ -20,14 +20,10 @@
 ```
 ```mermaid
 stateDiagram
-    [*] --> A
-    A --> B
-    B --> C
-    state B {
-      direction LR
-      a --> b
-    }
-    B --> D
+    [*] --> project
+    project --> B
+    project --> C
+    
 ```
 
 <!--
