@@ -13,7 +13,7 @@
         "backend developer": {
             "programming language": "PHP",
             "Framework": "LARAVEL",
-            "project url": "https://ehsansepahi.online"
+            "link": "https://ehsansepahi.online"
         }
     }
 ]
