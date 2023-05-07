@@ -21,8 +21,8 @@
 ```mermaid
 stateDiagram
     [*] --> project
-    project --> B
-    project --> C
+    project --> toDo
+    project --> realtime
     
 ```
 
