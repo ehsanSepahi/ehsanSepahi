@@ -21,7 +21,7 @@
 ```mermaid
 stateDiagram
     direction LR
-    [*] --> https://ehsansepahi.online
+    [*] --> [A](https://ehsansepahi.online)
     https://ehsansepahi.online --> B
     B --> C
     state B {
