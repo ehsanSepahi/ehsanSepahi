@@ -18,8 +18,9 @@
     }
 ]
 ```
-```stateDiagram
-direction LR
+```mermaid
+stateDiagram;
+    direction LR
     [*] --> A
     A --> B
     B --> C
