@@ -20,7 +20,6 @@
 ```
 ```mermaid
 graph TD;
-    [*]-->project;
     project-->B;
     project-->C;
 ```
