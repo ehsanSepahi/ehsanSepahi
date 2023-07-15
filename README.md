@@ -22,12 +22,13 @@
     }
 ]
 ```
-### uploaded project : [ehsanSepahi](https://ehsansepahi.online)
 
-- [x] [toDo](https://www.ehsansepahi.online/toDo)
-- [x] [chirp](https://www.ehsansepahi.online/chirp)
-- [ ] [retimeApplication](https://www.ehsansepahi.online/realtime/)
-- [ ] [chatgbt](https://www.ehsansepahi.online/chatgbt)
+### uploaded project : [ehsanSepahi](https://162.19.214.177)
+
+- [x] [toDo](https://162.19.214.177/toDo)
+- [x] [chirp](https://162.19.214.177/chirp)
+- [ ] [retimeApplication](https://162.19.214.177/realtime/)
+- [ ] [chatgbt](https://162.19.214.177/chatgbt)
 
 <!--
 **ehsanSepahi/ehsanSepahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
